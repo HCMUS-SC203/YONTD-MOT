@@ -15,7 +15,8 @@ public_detections: "data/kitti/detection/casa_Car_training"
 
 
 # --------------------------------- Path Define -------------------------------
-data_path: "data/kitti/tracking"
+# data_path: "data/kitti/tracking"
+data_path: "/kaggle/input/kitti-tracking/kitti_tracking"
 save_path: "output"
 
 # ------------------------------------ Hyperparamenters ---------------------------------
